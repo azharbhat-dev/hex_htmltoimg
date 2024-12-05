@@ -91,6 +91,6 @@ Contributions are welcome!
 
 ## 📞 Support
 
-For more information, check the [project repository](https://github.com/azharbhat-dev/hex_htmltoimage).
+For more information, check the [project](https://pypi.org/project/hex-htmltoimg/).
 
 *Generated with ❤️ by azharbhat-dev*
