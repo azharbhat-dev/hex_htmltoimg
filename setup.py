@@ -1,6 +1,5 @@
 from setuptools import setup, find_packages
 
-# Read the long description from README.md
 with open("README.md", "r", encoding="utf-8") as file:
     long_description = file.read()
 
@@ -17,7 +16,7 @@ setup(
     description="A module to generate images from HTML content",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/hex_htmltoimg",
+    url="https://github.com/azharbhat-dev/hex_htmltoimg",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
